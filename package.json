@@ -1,0 +1,26 @@
+{
+  "name": "express-shop",
+  "version": "1.0.0",
+  "description": "Ecommerce application build with node js and ExpressJs.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohdaamir8182/Express-Shop.git"
+  },
+  "author": "Aamir MAhmood",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mohdaamir8182/Express-Shop/issues"
+  },
+  "homepage": "https://github.com/mohdaamir8182/Express-Shop#readme",
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
